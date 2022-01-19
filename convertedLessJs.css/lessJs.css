@@ -1,0 +1,32 @@
+.margins {
+  margin-top: 5%;
+  margin-left: 50%;
+}
+footer {
+  height: 60px;
+  background-color: black;
+  color: white;
+  align-content: center;
+}
+button {
+  margin-top: 5%;
+  margin-left: 50%;
+}
+p b {
+  font-size: 20px;
+}
+p i {
+  margin-left: 10%;
+}
+p #tryID {
+  margin-left: 50px;
+  background-color: black;
+  color: white;
+}
+.trySQRT {
+  font-size: 15px;
+}
+.confirmSize {
+  font-size: 15px;
+  font-color: red;
+}
